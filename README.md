@@ -20,7 +20,7 @@ I am a Frontend Developer with over 2 years of professional experience building 
 - 📫 Email me, and let's make magic happen - [h.meherabhossain@gmail.com]
 
 
-### Numbers
+### Stats
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meherab-hossain&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 
 ![Meherab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meherab-hossain&theme=vue-dark&hide_border=true)
