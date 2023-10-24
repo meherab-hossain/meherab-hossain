@@ -27,7 +27,6 @@ I am a Frontend Developer with over 2 years of professional experience building 
 
 ![Meherab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meherab-hossain&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-### ⚙️ &nbsp;GitHub Analytics
 
 
 ### Find me on
