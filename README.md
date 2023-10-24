@@ -21,11 +21,14 @@ I am a Frontend Developer with over 2 years of professional experience building 
 
 
 ### Numbers
-![Meherab's Stats](https://github-readme-stats.vercel.app/api?username=meherab-hossain&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meherab-hossain&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 
-![Meherab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meherab-hossain&theme=darcula&hide_border=true)
+![Meherab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=meherab-hossain&theme=vue-dark&hide_border=true)
 
-![Meherab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meherab-hossain&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Meherab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meherab-hossain&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+### ⚙️ &nbsp;GitHub Analytics
+
 
 ### Find me on
 
