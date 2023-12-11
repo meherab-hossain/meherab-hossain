@@ -13,7 +13,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-I am a Frontend Developer with over 2 years of professional experience building user-friendly and responsive web applications. Proficient in HTML, CSS, and JavaScript with expertise in popular frontend frameworks like ReactJs and VueJs. Currently, **I'm open to work and employment opportunities**.
+I am a Frontend Developer with almost 3 years of professional experience building user-friendly and responsive web applications. Proficient in HTML, CSS, and JavaScript with expertise in popular frontend frameworks like ReactJs and VueJs. Currently, **I'm open to work and employment opportunities**.
 
 - 🌱 I love to dive into different areas of my interest and experiment with it.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
